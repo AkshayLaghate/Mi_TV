@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Mi TV</string>
+
+    <string name="title_section1">Popular</string>
+    <string name="title_section2">Top Rated</string>
+    <string name="title_section3">On Air</string>
+    <string name="title_section4">Airing Today</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
